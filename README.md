@@ -33,5 +33,10 @@ Improve water management efficiency
 ⚙️ Working Explanation
 
 🌱 Learning Outcomes
-Through this project, we learned:• IoT implementation and sensor integration• Hardware troubleshooting and debugging• Real-time monitoring concepts• Team collaboration and presentation skills• Problem-solving using technology
+Through this project, we learned:
+• IoT implementation and sensor    integration
+• Hardware troubleshooting and debugging
+• Real-time monitoring concepts
+• Team collaboration and presentation skills
+• Problem-solving using technology
  
