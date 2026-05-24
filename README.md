@@ -3,7 +3,7 @@
 The Water Level Monitoring System is an IoT-based project designed to monitor water levels in real time and reduce water wastage through smart automation. The system provides live monitoring, automatic motor control, and alert notifications using sensors and IoT technology.
 This project was developed for our college Engineering Product Design Competition to create a practical and sustainable solution for efficient water management.
 
-Prototype-1(149596153285920).jpg
+![Project Photo](Prototype-1)
 
 ❗Problem Statement
 Manual water level monitoring is time-consuming and inefficient. Many households and industries still face issues like water overflow, wastage, and unnecessary motor usage.
