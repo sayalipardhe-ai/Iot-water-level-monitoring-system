@@ -31,6 +31,11 @@ Improve water management efficiency
 • Blynk IoT Platform
 
 ⚙️ Working Explanation
+The ultrasonic sensor continuously measures the water level in the tank and sends data to the ESP8266 NodeMCU. The NodeMCU processes the readings and displays the water level on the LCD display while also sending real-time updates to the Blynk IoT mobile application.
+
+When the water level reaches a certain limit, the relay module automatically controls the motor to avoid overflow or dry running. The system also provides buzzer and LED alerts for better monitoring and user awareness.
+
+This creates a smart, automated, and efficient water management solution.
 
 🌱 Learning Outcomes
 Through this project, we learned:
